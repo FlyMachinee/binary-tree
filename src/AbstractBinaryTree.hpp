@@ -65,7 +65,7 @@ namespace BinaryTree
 
         /**
          * @brief 返回空指针
-         * @return nullptr
+         * @return 空指针
         */
         virtual Position null() const = 0;
 
